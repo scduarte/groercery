@@ -1,0 +1,9 @@
+{
+  "@@locale": "pt",
+  "appTitle": "Lista de Compras",
+  "addProduct": "Adicionar Produto",
+  "productName": "Nome do Produto",
+  "productPrice": "Preço",
+  "save": "Salvar",
+  "cancel": "Cancelar"
+}
